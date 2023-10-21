@@ -1,7 +1,7 @@
 # Random Loadouts
 This script randomize a CS:GO loadout and gives it to each player every 15 seconds, including primaries, secondaries, knives, danger zone weapons and playermodels.
 
-Not compatible with CS2. Still usable in the `csgo_demo_viewer` branch.
+Not compatible with CS2. Still usable in the `csgo_legacy` branch.
 
 ## Usage
 The script is compatible with every Defusal/Hostage map. It's highly recommended to initialize maps via console in Casual gamemode since initializing it in War Games or Deathmatch may break some stuff.
